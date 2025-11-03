@@ -2,6 +2,15 @@
   "version": 1,
   "dependencies": {
     "UAP,Version=v10.0.17763": {
+      "Microsoft.ReactNative.Cxx": {
+        "type": "Direct",
+        "requested": "[0.80.0, )",
+        "resolved": "0.80.0",
+        "contentHash": "097y6EeB13QEnjnDGlDnTY2gZKVMYP1pUSmH7ERu/Ei4H6DOwcmELfhOcrelv+W2oG9E8EwPYkl0OvoQKpUwuA==",
+        "dependencies": {
+          "Microsoft.ReactNative": "0.80.0"
+        }
+      },
       "Microsoft.WindowsAppSDK": {
         "type": "Direct",
         "requested": "[1.7.250401001, )",
@@ -11,6 +20,11 @@
           "Microsoft.Web.WebView2": "1.0.2903.40",
           "Microsoft.Windows.SDK.BuildTools": "10.0.22621.756"
         }
+      },
+      "Microsoft.ReactNative": {
+        "type": "Transitive",
+        "resolved": "0.80.0",
+        "contentHash": "YgNOIykU9Q12e7qI/EPID4GxkQ/CChoNrkU5iA8UOLXlLRoDyUdjIKzjI4l2EIG7tNWBezzt4y0vfUx+O3N5Dw=="
       },
       "Microsoft.Web.WebView2": {
         "type": "Transitive",
@@ -37,6 +51,11 @@
           "Microsoft.Windows.SDK.BuildTools": "10.0.22621.756"
         }
       },
+      "Microsoft.ReactNative": {
+        "type": "Transitive",
+        "resolved": "0.80.0",
+        "contentHash": "YgNOIykU9Q12e7qI/EPID4GxkQ/CChoNrkU5iA8UOLXlLRoDyUdjIKzjI4l2EIG7tNWBezzt4y0vfUx+O3N5Dw=="
+      },
       "Microsoft.Web.WebView2": {
         "type": "Transitive",
         "resolved": "1.0.2903.40",
@@ -53,6 +72,11 @@
           "Microsoft.Web.WebView2": "1.0.2903.40",
           "Microsoft.Windows.SDK.BuildTools": "10.0.22621.756"
         }
+      },
+      "Microsoft.ReactNative": {
+        "type": "Transitive",
+        "resolved": "0.80.0",
+        "contentHash": "YgNOIykU9Q12e7qI/EPID4GxkQ/CChoNrkU5iA8UOLXlLRoDyUdjIKzjI4l2EIG7tNWBezzt4y0vfUx+O3N5Dw=="
       },
       "Microsoft.Web.WebView2": {
         "type": "Transitive",
@@ -71,6 +95,11 @@
           "Microsoft.Windows.SDK.BuildTools": "10.0.22621.756"
         }
       },
+      "Microsoft.ReactNative": {
+        "type": "Transitive",
+        "resolved": "0.80.0",
+        "contentHash": "YgNOIykU9Q12e7qI/EPID4GxkQ/CChoNrkU5iA8UOLXlLRoDyUdjIKzjI4l2EIG7tNWBezzt4y0vfUx+O3N5Dw=="
+      },
       "Microsoft.Web.WebView2": {
         "type": "Transitive",
         "resolved": "1.0.2903.40",
@@ -87,6 +116,11 @@
           "Microsoft.Web.WebView2": "1.0.2903.40",
           "Microsoft.Windows.SDK.BuildTools": "10.0.22621.756"
         }
+      },
+      "Microsoft.ReactNative": {
+        "type": "Transitive",
+        "resolved": "0.80.0",
+        "contentHash": "YgNOIykU9Q12e7qI/EPID4GxkQ/CChoNrkU5iA8UOLXlLRoDyUdjIKzjI4l2EIG7tNWBezzt4y0vfUx+O3N5Dw=="
       },
       "Microsoft.Web.WebView2": {
         "type": "Transitive",
@@ -105,6 +139,11 @@
           "Microsoft.Windows.SDK.BuildTools": "10.0.22621.756"
         }
       },
+      "Microsoft.ReactNative": {
+        "type": "Transitive",
+        "resolved": "0.80.0",
+        "contentHash": "YgNOIykU9Q12e7qI/EPID4GxkQ/CChoNrkU5iA8UOLXlLRoDyUdjIKzjI4l2EIG7tNWBezzt4y0vfUx+O3N5Dw=="
+      },
       "Microsoft.Web.WebView2": {
         "type": "Transitive",
         "resolved": "1.0.2903.40",
@@ -122,6 +161,11 @@
           "Microsoft.Windows.SDK.BuildTools": "10.0.22621.756"
         }
       },
+      "Microsoft.ReactNative": {
+        "type": "Transitive",
+        "resolved": "0.80.0",
+        "contentHash": "YgNOIykU9Q12e7qI/EPID4GxkQ/CChoNrkU5iA8UOLXlLRoDyUdjIKzjI4l2EIG7tNWBezzt4y0vfUx+O3N5Dw=="
+      },
       "Microsoft.Web.WebView2": {
         "type": "Transitive",
         "resolved": "1.0.2903.40",
@@ -138,6 +182,11 @@
           "Microsoft.Web.WebView2": "1.0.2903.40",
           "Microsoft.Windows.SDK.BuildTools": "10.0.22621.756"
         }
+      },
+      "Microsoft.ReactNative": {
+        "type": "Transitive",
+        "resolved": "0.80.0",
+        "contentHash": "YgNOIykU9Q12e7qI/EPID4GxkQ/CChoNrkU5iA8UOLXlLRoDyUdjIKzjI4l2EIG7tNWBezzt4y0vfUx+O3N5Dw=="
       },
       "Microsoft.Web.WebView2": {
         "type": "Transitive",
